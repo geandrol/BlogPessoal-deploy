@@ -1,4 +1,4 @@
-# Blog Pessoal - Deploy
+# Blog Pessoal Back-end Deploy
 
 Este repositório contém um projeto de Blog Pessoal desenvolvido em Java com Spring Boot, permitindo a criação, edição e gerenciamento de postagens e temas.
 
